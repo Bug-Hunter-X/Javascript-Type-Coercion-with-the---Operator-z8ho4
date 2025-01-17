@@ -1,0 +1,2 @@
+# Javascript Type Coercion with the + Operator
+This example demonstrates a common error in Javascript stemming from automatic type coercion when using the + operator. The + operator will concatenate strings rather than add numbers if one of the operands is a string.  This can lead to unexpected behavior if you're not careful.  This repo contains examples demonstrating both the problematic code and a solution using explicit type checking. 
